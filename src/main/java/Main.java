@@ -5,5 +5,6 @@ public class Main {
         LocalTime time = new LocalTime();
         System.out.println(time);
         System.out.println("Hello World");
+        System.out.println(new Test().test());
     }
 }
